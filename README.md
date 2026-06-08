@@ -1,6 +1,6 @@
 Passar o arquivo de configução configssh.bin
 
-Putty telnet 192.168.1.1:102
+Putty telnet 192.168.1.1:1023
 
 Abrir o tftpd64.exe
 
