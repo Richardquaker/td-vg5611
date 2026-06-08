@@ -1,3 +1,5 @@
+Tenha um gravador de Flash caso falhe algo!
+
 Passar o arquivo de configução configssh.bin
 
 Putty telnet 192.168.1.1:1023
